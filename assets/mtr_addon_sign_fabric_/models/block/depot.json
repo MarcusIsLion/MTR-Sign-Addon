@@ -1,0 +1,9 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/dep",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/dep",
+    "particle": "mtr_addon_sign_fabric_:blocks/dep",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "8": "mtr_addon_sign_fabric_:blocks/dep"
+  }
+}
