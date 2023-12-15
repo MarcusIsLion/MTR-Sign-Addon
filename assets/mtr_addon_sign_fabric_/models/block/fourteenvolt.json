@@ -1,0 +1,9 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/14v",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/14v",
+    "particle": "mtr_addon_sign_fabric_:blocks/14v",
+    "2": "mtr_addon_sign_fabric_:blocks/pole",
+    "3": "mtr_addon_sign_fabric_:blocks/14v"
+  }
+}

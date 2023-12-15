@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtr_addon_sign_fabric_:block/threehundred"
+    },
+    "facing=east": {
+      "model": "mtr_addon_sign_fabric_:block/threehundred",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mtr_addon_sign_fabric_:block/threehundred",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtr_addon_sign_fabric_:block/threehundred",
+      "y": 270
+    }
+  }
+}

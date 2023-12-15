@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mtr_addon_sign_fabric_",
+  "version": "1.0.0",
+  "name": "MTR addon sign_fabric_1.19.2",
+  "authors": [
+    "vmath, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.mtraddonsignfabric.MtrAddonSignFabricMod"
+    ],
+    "client": [
+      "net.mcreator.mtraddonsignfabric.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "mixins": [
+    "mtr_addon_sign_fabric_.mixins.json"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "2": {
+      "item": "minecraft:stone"
+    },
+    "4": {
+      "item": "mtr_addon_sign_fabric_:tunnelwithshortborder"
+    },
+    "7": {
+      "item": "mtr_addon_sign_fabric_:pole"
+    }
+  },
+  "result": {
+    "item": "mtr_addon_sign_fabric_:novent",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/wheezing",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/wheezing",
+    "particle": "mtr_addon_sign_fabric_:blocks/wheezing",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "16": "mtr_addon_sign_fabric_:blocks/wheezing"
+  }
+}

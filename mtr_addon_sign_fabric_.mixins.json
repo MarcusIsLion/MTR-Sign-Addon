@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.mtraddonsignfabric.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MtrAddonSignFabricModRepairItemRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mtr_addon_sign_fabric_.refmap.json"
+}
