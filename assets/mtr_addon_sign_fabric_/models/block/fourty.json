@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/40",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/40",
+    "particle": "mtr_addon_sign_fabric_:blocks/40",
+    "2": "mtr_addon_sign_fabric_:blocks/pole",
+    "4": "mtr_addon_sign_fabric_:blocks/40"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/stn",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/stn",
+    "particle": "mtr_addon_sign_fabric_:blocks/stn",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "15": "mtr_addon_sign_fabric_:blocks/stn"
+  },
+  "render_type": "solid"
+}

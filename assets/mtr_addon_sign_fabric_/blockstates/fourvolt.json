@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mtr_addon_sign_fabric_:block/fourvolt"
+    },
+    "facing=east": {
+      "model": "mtr_addon_sign_fabric_:block/fourvolt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mtr_addon_sign_fabric_:block/fourvolt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mtr_addon_sign_fabric_:block/fourvolt",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/square",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/square",
+    "particle": "mtr_addon_sign_fabric_:blocks/square",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "14": "mtr_addon_sign_fabric_:blocks/square"
+  },
+  "render_type": "solid"
+}

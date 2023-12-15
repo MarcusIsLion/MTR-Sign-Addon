@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/right_side",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/right_side",
+    "particle": "mtr_addon_sign_fabric_:blocks/right_side",
+    "2": "mtr_addon_sign_fabric_:blocks/pole",
+    "4": "mtr_addon_sign_fabric_:blocks/right_side"
+  },
+  "render_type": "solid"
+}

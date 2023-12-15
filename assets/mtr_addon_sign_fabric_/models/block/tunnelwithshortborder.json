@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/tunnel",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/tunnel",
+    "particle": "mtr_addon_sign_fabric_:blocks/tunnel",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "17": "mtr_addon_sign_fabric_:blocks/tunnel"
+  },
+  "render_type": "solid"
+}

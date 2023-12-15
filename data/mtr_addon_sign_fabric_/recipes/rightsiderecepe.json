@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "mtr_addon_sign_fabric_:stn"
+    },
+    "1": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result": {
+    "item": "mtr_addon_sign_fabric_:rightside",
+    "count": 1
+  }
+}

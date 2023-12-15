@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mtr_addon_sign_fabric_:pole"
+    },
+    "1": {
+      "item": "mtr_addon_sign_fabric_:sixty"
+    },
+    "2": {
+      "item": "mtr_addon_sign_fabric_:pole"
+    }
+  },
+  "result": {
+    "item": "mtr_addon_sign_fabric_:heigty",
+    "count": 1
+  }
+}

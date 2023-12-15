@@ -1,0 +1,10 @@
+{
+  "parent": "mtr_addon_sign_fabric_:custom/switch200m",
+  "textures": {
+    "all": "mtr_addon_sign_fabric_:blocks/switch_200m",
+    "particle": "mtr_addon_sign_fabric_:blocks/switch_200m",
+    "12": "mtr_addon_sign_fabric_:blocks/pole",
+    "17": "mtr_addon_sign_fabric_:blocks/switch_200m"
+  },
+  "render_type": "solid"
+}
