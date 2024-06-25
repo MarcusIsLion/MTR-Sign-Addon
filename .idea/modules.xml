@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.17.1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1.17.1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/1.17.1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1.17.1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MTR-Sign-Addon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MTR-Sign-Addon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MTR-Sign-Addon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MTR-Sign-Addon.test.iml" />
     </modules>
   </component>
 </project>
